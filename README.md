@@ -407,5 +407,19 @@ $ADMIN_BAR$
 </div>
 <script type="text/javascript" src="/.s/t/1812/ui.js"></script>
 <script src="/.s/t/1812/owl.carousel.min.js"></script>
-<!-- </popup> -->
+<!-- </popup> -->Storage
+
+help
+Files
+Rules
+Usage
+
+link
+file_uploadอัปโหลดไฟล์
+create_new_folder
+
+more_vert
+
+ชื่อ
+
 
